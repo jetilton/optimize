@@ -1,0 +1,8 @@
+the_dalles:
+  h_t: TDA.Elev-Tailwater.Ave.1Hour.1Hour.GDACS-COMPUTED-REV
+  p_atm: TDA.Pres-Air.Inst.1Hour.0.GOES-REV
+  q_p: TDA.Flow-Gen.Ave.1Hour.1Hour.CBT-REV
+  q_s: TDA.Flow-Spill.Ave.1Hour.1Hour.CBT-REV
+  temp_water: TDA.Temp-Water.Inst.1Hour.0.GOES-REV
+  tdg_f: TDA.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
+  tdg_tw: TDDO.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
