@@ -1,3 +1,12 @@
+john_day:
+  h_t: JDA.Elev-Tailwater.Ave.1Hour.1Hour.GDACS-COMPUTED-REV
+  p_atm: JDY.Pres-Air.Inst.1Hour.0.GOES-REV
+  q_p: JDA.Flow-Gen.Ave.1Hour.1Hour.CBT-REV
+  q_s: JDA.Flow-Spill.Ave.1Hour.1Hour.CBT-REV
+  temp_water: JDY.Temp-Water.Inst.1Hour.0.GOES-REV
+  tdg_f: JDY.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
+  tdg_tw: JHAW.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
+  
 the_dalles:
   h_t: TDA.Elev-Tailwater.Ave.1Hour.1Hour.GDACS-COMPUTED-REV
   p_atm: TDA.Pres-Air.Inst.1Hour.0.GOES-REV
@@ -6,3 +15,12 @@ the_dalles:
   temp_water: TDA.Temp-Water.Inst.1Hour.0.GOES-REV
   tdg_f: TDA.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
   tdg_tw: TDDO.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
+
+bonneville:
+  h_t: BON.Elev-Tailwater.Inst.1Hour.0.CBT-RAW
+  p_atm: BON.Pres-Air.Inst.1Hour.0.GOES-REV
+  q_p: BON.Flow-Gen.Ave.1Hour.1Hour.CBT-REV
+  q_s: BON.Flow-Spill.Ave.1Hour.1Hour.CBT-REV
+  temp_water: BON.Temp-Water.Inst.1Hour.0.GOES-REV
+  tdg_f: BON.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
+  tdg_tw: CCIW.%-Saturation-TDG.Inst.1Hour.0.GOES-COMPUTED-REV
